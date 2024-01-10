@@ -1,1 +1,1 @@
-export const navLinks = ['features', 'priceing', 'testemonials', 'contact'];
+export const navLinks = ['features', 'pricing', 'testemonials', 'contact'];
